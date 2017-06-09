@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "restricted area"
-AuthUserFile /benjrohlfing.github.io/index.html/.htpasswd
+AuthUserFile /index.html/.htpasswd
 require valid-user
